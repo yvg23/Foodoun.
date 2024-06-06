@@ -23,7 +23,8 @@
 <!-- ABOUT THE PROJECT --> 
 ## About The Project
 
-this website basically has been built to compare prices between three delivery platforms so that users can get a cheaper price on food items but the twist is since these platforms do not provide api for this type of thing ,everything you see here is just a show and will only work only when actual api is available from all these platform until then you will only see the api that i have built myself wiht fake prices and images and ratings and reviews !!!!! enjoy
+Prototype of a Food-Delivery Website which provides food at your doorstep at economical prices and
+Minimum Delivery Time.Built Using React,HTML,CSS and Javascript.
 
 ## website preview video  
 
